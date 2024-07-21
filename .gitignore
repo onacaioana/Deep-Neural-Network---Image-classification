@@ -1,1 +1,15 @@
+# Ignore Jupyter Notebook checkpoint files
 .ipynb_checkpoints/
+
+# Ignore other typical files and directories
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+.idea/
+.vscode/
