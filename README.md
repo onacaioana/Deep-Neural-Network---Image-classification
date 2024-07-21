@@ -42,7 +42,7 @@ print ("y = " + str(train_y[0,index]) + ". It's a " + classes[train_y[0,index]].
 
 
     
-![png](DNN_Cat_image_classification_files/DNN_Cat_image_classification_4_1.png)
+![png](images/DNN_Cat_image_classification_4_1.png)
     
 
 
@@ -217,7 +217,7 @@ plot_costs(costs, learning_rate)
 
 
     
-![png](DNN_Cat_image_classification_files/DNN_Cat_image_classification_10_1.png)
+![png](images/DNN_Cat_image_classification_10_1.png)
     
 
 
@@ -340,7 +340,7 @@ plot_costs(costs, learning_rate)
 
 
     
-![png](DNN_Cat_image_classification_files/DNN_Cat_image_classification_16_1.png)
+![png](images/DNN_Cat_image_classification_16_1.png)
     
 
 
@@ -367,7 +367,7 @@ print_mislabeled_images(classes, test_x, test_y, pred_test)
 
 
     
-![png](DNN_Cat_image_classification_files/DNN_Cat_image_classification_19_0.png)
+![png](images/DNN_Cat_image_classification_19_0.png)
     
 
 
